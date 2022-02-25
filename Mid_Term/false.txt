@@ -1,0 +1,11 @@
+0 None False '' [] () set() {}
+string will display itself 
+
+Data Type :
+1. int, float
+2. string- string format,methods,operators with strings
+3. list- methods
+4.tuple- methods
+5.tuple vs list
+looping- break continue
+sum(), min(), max(), bin(), ord(), chr(), id(), eval(), int()......
